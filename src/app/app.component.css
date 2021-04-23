@@ -1,0 +1,52 @@
+.Mainheading{
+    height: 40%;
+    background-color:lightgreen;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.heading{
+    text-align: center;
+}
+.pragraph{
+    text-align: center;
+}
+.right{
+    text-align: right;
+    margin-top: -18rem;
+}
+.part2{
+    height: 40%;
+    background-color:lightgreen;
+    align-items: center;
+}
+.part2Heading{
+    color: white;
+    padding-top:20px ;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.heading1{
+    padding:2% ;
+
+}
+.margin{
+    margin-left: 20rem;
+    margin-top: -9rem;
+}
+.margin1{
+    margin-left: 20rem;
+    margin-top: -19rem;
+}
+.select{
+    margin-left: 15rem;
+    margin-top: -2.4rem;
+}
+.select1{
+    background-color: aquamarine;
+    color: white;
+}
+.margin2{
+    margin-left: 20rem;
+    margin-top: -12rem;
+}
